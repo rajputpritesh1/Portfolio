@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Linkwaale",
+    "desc": "Linkwaale wishes to take the opportunity to bring all of our daily and essential needs contact numbers to the same place where they can be found and contacted easily for any relevant requirement.",
+    "image": "linkwaale",
+    "category": "wordpress",
+    "links": {
+      "view": "https://linkwaale.com"
+    }
+  },
+
+  {
+    "name": "Malware Analysis",
+    "desc": "I constantly spend time analyzing malware. I have listed 29 addresses that can be useful for blue team members to use time more effectively.",
+    "image": "analysis",
+    "category": "cybersecurity",
+    "links": {
+      "view": "https://github.com/rajputpritesh1/MalwareAnalyzer"
+    }
+  },
+
+  {
+    "name": "EarthIQ",
+    "desc": "A House Keeping Website.",
+    "image": "earthiq",
+    "category": "wordpress",
+    "links": {
+      "view": "https://earthiq.in/"
+    }
+  },
+
+  {
+    "name": "Monthly Saving Card",
+    "desc": "MSC provide discount on every single purchase which adds up to your savings,let's start your journey of happiness together.",
+    "image": "msc",
+    "category": "website",
+    "links": {
+      "view": "https://earthiq.in/"
+    }
+  }
+ 
+]
